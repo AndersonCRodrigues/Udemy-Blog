@@ -1,4 +1,4 @@
-import { HtmlContent } from '../HtmlContent';
+import { HtmlContent } from 'components/HtmlContent';
 import * as Styled from './styles';
 
 export type FooterProps = {
