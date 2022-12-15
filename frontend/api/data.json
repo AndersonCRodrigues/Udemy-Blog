@@ -1,0 +1,274 @@
+{
+  "data": {
+    "setting": {
+      "data": {
+        "attributes": {
+          "blogName": "App de Receitas",
+          "blogDescription": "Site das mais variadas receitas!",
+          "logo": {
+            "data": {
+              "id": "2",
+              "attributes": {
+                "altText": "logo",
+                "url": "https://res.cloudinary.com/duwppn0hz/image/upload/v1670511018/logo_c4d57df2df.svg"
+              }
+            }
+          },
+          "menuLink": [
+            {
+              "link": "#link",
+              "newTab": false,
+              "text": "o link",
+              "id": "1"
+            }
+          ],
+          "footer": "<p>texto do footer</p>"
+        }
+      }
+    },
+    "posts": {
+      "data": [
+        {
+          "id": "2",
+          "attributes": {
+            "slug": "bobo-de-camarao",
+            "title": "Bobo de Camarão",
+            "excerpt": "Bobó de camarão é um prato da culinária afro-brasileira. De consistência cremosa, é feito com camarões refogados em temperos verdes e leite de coco",
+            "content": "<div class=\"content-section\">\n                <h3>Preparação</h3>\n\n                \n\n                <ol class=\"instructions\">\n                    <li itemprop=\"recipeInstructions\">\n                        <h4>Modo de Preparo:</h4>\n                        \n                        <ol><li>Cozinhe  a macaxeira e reserve.</li><li>Em  uma panela, adicione o azeite de dendê, a cebola picada, os pimentões picados e  doure bem.</li><li>Acrescente a<b>Base&nbsp;de Tomate Desidratado Knorr</b>já pronta, conforme embalagem.</li><li>Ferva  por 4 minutos, tempere com 50% do<b>Caldo Delícias do Mar Knorr</b>e 50% do leite de  coco, processe tudo e reserve.</li><li>Processe  a macaxeira cozida com o restante do leite de coco para facilitar o processo.</li><li>Em  uma panela grande, acrescente o azeite e doure os camarões, tempere com o  restante do<b>Caldo Delícias do Mar Knorr</b>e cozinhe por 4 minutos.</li><li>Adicione  a base de macaxeira processada e aos poucos o molho de pimentões com cebola e o  molho de tomate e leite de coco, processado anteriormente.</li><li>Misture  tudo e cozinhe em fogo baixo por mais 10 minutos, ajuste o sabor com o<b>Caldo  Delícias do Mar Knorr</b>, caso necessário.</li><li>Finalize  com coentro picado.</li><li><b>Dica:</b>Para uma receita ainda mais saborosa, acrescente um pouco de<b>Molho de Pimenta  Hellmann's</b>.</li></ol>\n                    </li>\n                </ol>\n\n                \n            </div>",
+            "tags": {
+              "data": [
+                {
+                  "id": "6",
+                  "attributes": {
+                    "slug": "camarao",
+                    "displayName": "Camarão"
+                  }
+                }
+              ]
+            },
+            "categories": {
+              "data": [
+                {
+                  "id": "4",
+                  "attributes": {
+                    "slug": "comida",
+                    "displayName": "Comida"
+                  }
+                }
+              ]
+            },
+            "author": {
+              "data": {
+                "id": "3",
+                "attributes": {
+                  "slug": "thabatta-stamato",
+                  "displayName": "Thabatta Stamato"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "3",
+          "attributes": {
+            "slug": "risoto-de-camarao",
+            "title": "Risoto de Camarão",
+            "excerpt": "Risoto de Camarão Esta receita foi criada pela cozinheira Sebastiana Maria Pereira Cardoso, do restaurante Cantinho Brasileiro, que fica em Brasília - DF. ",
+            "content": "<div class=\"content-section\">\n                <h3>Preparação</h3>\n\n                \n\n                <ol class=\"instructions\">\n                    <li itemprop=\"recipeInstructions\">\n                        <h4>Siga os passos abaixo</h4>\n                        \n                        <ol><li>Temperar o camarão com o Tempero Limão em Pó Knorr, alho, sal a gosto, e reservar por 10 minutos.</li><li>Refogar a cebola no azeite, acrescentar o Caldo Delícias do Mar Knorr e a água, mexendo até dissolver.</li><li>Quando levantar fervura, acrescentar o arroz e, em seguida, a Base de Tomate Desidratado Knorr. Deixar cozinhar e reservar.</li><li>Em uma frigideira, adicionar o azeite e o camarão, cozinhar em fogo baixo por 5 minutos aproximadamente.</li><li>Misturar o camarão ao arroz e acrescentar a Maionese Hellmann’s.</li><li>Decorar com camarões grelhados, alecrim e tomate seco.</li><li>Servir bem quente!</li></ol>\n                    </li>\n                </ol>\n\n                \n            </div>",
+            "tags": {
+              "data": [
+                {
+                  "id": "6",
+                  "attributes": {
+                    "slug": "camarao",
+                    "displayName": "Camarão"
+                  }
+                }
+              ]
+            },
+            "categories": {
+              "data": [
+                {
+                  "id": "4",
+                  "attributes": {
+                    "slug": "comida",
+                    "displayName": "Comida"
+                  }
+                }
+              ]
+            },
+            "author": {
+              "data": {
+                "id": "2",
+                "attributes": {
+                  "slug": "arthur-mucci",
+                  "displayName": "Arthur Mucci"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "4",
+          "attributes": {
+            "slug": "rocambole-de-carne",
+            "title": "Rocambole de Carne",
+            "excerpt": "Nesta receita, a Maionese Hellmann's dá liga na carne, deixando a massa do rocambole mais suculenta e flexível para abrir. Também é utilizada no recheio, trazendo praticidade e custo benefício!",
+            "content": "<div class=\"content-section\">\n                <h3>Preparação</h3>\n\n                \n\n                <ol class=\"instructions\">\n                    <li itemprop=\"recipeInstructions\">\n                        <h4>Faça a massa</h4>\n                        \n                        Misture a carne moída, o creme de cebola e a maionese até obter uma massa. Abra-a sobre um filme plástico com o auxílio de um rolo, formando um retângulo, até ficar com aproximadamente 1 cm de espessura. Acerte o formato utilizando uma espátula para empurrar as bordas.\n                    </li>\n                \n                    <li itemprop=\"recipeInstructions\">\n                        <h4>Faça o recheio</h4>\n                        \n                        Misture a muçarela, a maionese, a rúcula e o tomate seco picado. Espalhe o recheio sobre a massa sem chegar até as extremidades. Enrole o rocambole e retire o filme plástico. Com as mãos, termine de moldar fechando bem as bordas. Transfira para uma forma untada, colocando a parte que fecha o rocambole para baixo, em contato com a assadeira. Asse por 15 minutos em forno pré-aquecido a 230°C, após este tempo diminua a temperatura para 170°C e asse por mais 15 minutos. Corte em fatias e sirva.<br><br><b>Dica:</b>Se desejar preparar com antecedência, asse e conserve refrigerado por até 2 dias. Antes de servir, leve ao forno pré-aquecido a 180 °C por 15 minutos.<b></b>\n                    </li>\n                </ol>\n\n                \n            </div>",
+            "tags": {
+              "data": [
+                {
+                  "id": "8",
+                  "attributes": {
+                    "slug": "carnes",
+                    "displayName": "Carnes"
+                  }
+                }
+              ]
+            },
+            "categories": {
+              "data": [
+                {
+                  "id": "4",
+                  "attributes": {
+                    "slug": "comida",
+                    "displayName": "Comida"
+                  }
+                }
+              ]
+            },
+            "author": {
+              "data": {
+                "id": "1",
+                "attributes": {
+                  "slug": "anderson-rodrigues",
+                  "displayName": "Anderson Rodrigues"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "5",
+          "attributes": {
+            "slug": "lagarto-recheado",
+            "title": "Lagarto Recheado",
+            "excerpt": "Lagarto Recheado Lagarto recheado com cenouras e cogumelos, acompanhado de um delicioso molho de carne. Definitivamente, um prato para surpreender.",
+            "content": "<div class=\"content-section\">\n                <h3>Preparação</h3>\n\n                \n\n                <ol class=\"instructions\">\n                    <li itemprop=\"recipeInstructions\">\n                        <h4>Siga os passos abaixo</h4>\n                        \n                        <ul><li>Esquente a água de 40 °C a 50 °C, adicione oMolho Escuro Demi-Glace Knorr, batendo sempre com o batedor tipo pera ou colher até ferver. Abaixe o fogo e cozinhe por 3 minutos.</li><li>Tempere o lagarto com Amaciante de Carnes Knorr. Reserve.</li><li>Faça um furo no meio da peça de lagarto com uma faca de serra, recheie com a cenoura e cogumelos, e enrole em papel-aluminio.</li><li>Leve ao forno por 20 minutos.</li><li>Sirva a carne regada com o molho escuro.</li></ul>\n                    </li>\n                </ol>\n\n                \n            </div>",
+            "tags": {
+              "data": [
+                {
+                  "id": "8",
+                  "attributes": {
+                    "slug": "carnes",
+                    "displayName": "Carnes"
+                  }
+                }
+              ]
+            },
+            "categories": {
+              "data": [
+                {
+                  "id": "4",
+                  "attributes": {
+                    "slug": "comida",
+                    "displayName": "Comida"
+                  }
+                }
+              ]
+            },
+            "author": {
+              "data": {
+                "id": "3",
+                "attributes": {
+                  "slug": "thabatta-stamato",
+                  "displayName": "Thabatta Stamato"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "6",
+          "attributes": {
+            "slug": "sorvete-de-brownie",
+            "title": "Sorvete de brownie",
+            "excerpt": "Sorvete de brownie Surpreenda seus clientes com esse sorvete caseiro e delicioso!",
+            "content": "<div class=\"content-section\">\n                <h3>Preparação</h3>\n\n                \n\n                <ol class=\"instructions\">\n                    <li itemprop=\"recipeInstructions\">\n                        <h4>Siga esses passos:</h4>\n                        <span class=\"preparation-time\" itemprop=\"prepTime\" content=\"6 h\"> 6 h</span>\n                        <ul><li>Bata os ingredientes em uma batedeira, até que virem um creme homogêneo, e leve-o ao freezer por 3 horas.</li><li>Após esfriar por 3 horas, leve a mistura para a batedeira novamente, bata por mais 10 minutos, leve de volta ao freezer, por mais 3 horas, e depois sirva.</li></ul>\n                    </li>\n                </ol>\n\n                \n            </div>",
+            "tags": {
+              "data": [
+                {
+                  "id": "9",
+                  "attributes": {
+                    "slug": "sorvertes",
+                    "displayName": "Sorvertes"
+                  }
+                }
+              ]
+            },
+            "categories": {
+              "data": [
+                {
+                  "id": "6",
+                  "attributes": {
+                    "slug": "sobremesa",
+                    "displayName": "Sobremesa"
+                  }
+                }
+              ]
+            },
+            "author": {
+              "data": {
+                "id": "1",
+                "attributes": {
+                  "slug": "anderson-rodrigues",
+                  "displayName": "Anderson Rodrigues"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "7",
+          "attributes": {
+            "slug": "caipirinha",
+            "title": "Caipirinha",
+            "excerpt": "Seguindo essa receita, você não vai mais errar na caipirinha. Nada de amargor, excesso de bagaço, açúcar sobrando no fundo. A boa caipirinha é equilibrada, fácil de beber.",
+            "content": "<div class=\"body-recipe-preparation\"><span class=\"title\">Preparo</span><div class=\"item\"><ul class=\"steps \"><li id=\"step-0-0\" class=\"step\"><span class=\"number\">1</span><span class=\"text\">Corte o  limão ao meio e, depois, em fatias meia-lua finas.</span></li><li id=\"step-0-1\" class=\"step\"><span class=\"number\">2</span><span class=\"text\">Macere (esmague) levemente as fatias de limão com o  açúcar em um copo baixo (macerar demais deixa o drinque amargo).</span></li><li id=\"step-0-2\" class=\"step\"><span class=\"number\">3</span><span class=\"text\">Encha o copo com gelo e coloque a  cachaça. Misture e finalize com fatias de limão.</span></li><hr><button class=\"elections-2022-button-more button-more-less\"><span>Veja mais</span> <svg viewBox=\"0 0 24 24\" transform=\"translate(0 0) rotate(undefined)\" class=\"ArrowIcon__Container-ciomfv-0 cZPZhn\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0,0H15.052V3.01H0Z\" transform=\"matrix(0.62, 0.785, -0.784, 0.62, 2.36, 10.318)\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0,3.01H15.052V0H0Z\" transform=\"matrix(0.62, -0.785, 0.784, 0.62, 0, 11.815)\"></path></svg></button></ul></div></div>",
+            "tags": {
+              "data": [
+                {
+                  "id": "10",
+                  "attributes": {
+                    "slug": "drink",
+                    "displayName": "Drink"
+                  }
+                }
+              ]
+            },
+            "categories": {
+              "data": [
+                {
+                  "id": "5",
+                  "attributes": {
+                    "slug": "bebidas",
+                    "displayName": "Bebidas"
+                  }
+                }
+              ]
+            },
+            "author": {
+              "data": {
+                "id": "3",
+                "attributes": {
+                  "slug": "thabatta-stamato",
+                  "displayName": "Thabatta Stamato"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
