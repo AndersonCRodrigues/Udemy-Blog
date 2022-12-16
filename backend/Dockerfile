@@ -4,6 +4,7 @@ ENV MYSQL_ROOT_PASSWORD 123456
 ENV MYSQL_USER blog
 ENV MYSQL_PASSWORD 123456
 
-RUN bash -c docker run -dit -p 3306:3306 strapi-blog
 
 EXPOSE 3306
+
+RUN bash -c docker run -dit -p 3306:3306 strapi-blog
