@@ -1,8 +1,8 @@
 {
-  "name": "backend",
+  "name": "blog",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "blog",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@strapi/provider-upload-cloudinary": "^4.5.4",
+    "graphql": "^15.5.0",
     "knex": "0.21.18",
     "pg": "8.5.1",
     "strapi": "3.6.11",
@@ -19,16 +20,17 @@
     "strapi-plugin-content-manager": "3.6.11",
     "strapi-plugin-content-type-builder": "3.6.11",
     "strapi-plugin-email": "3.6.11",
+    "strapi-plugin-graphql": "^3.6.11",
     "strapi-plugin-i18n": "3.6.11",
     "strapi-plugin-upload": "3.6.11",
     "strapi-plugin-users-permissions": "3.6.11",
     "strapi-utils": "3.6.11"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Anderson Rodrigues"
   },
   "strapi": {
-    "uuid": "81ab3e9f-8a7e-4723-bc56-910d3f709d72"
+    "uuid": "e60b41fc-9105-48e8-9daf-faddd5c336e8"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",

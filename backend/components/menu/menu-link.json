@@ -8,14 +8,10 @@
   "attributes": {
     "link": {
       "type": "text",
-      "required": true,
-      "maxLength": 2048,
-      "minLength": 3
+      "required": true
     },
     "text": {
       "type": "string",
-      "maxLength": 150,
-      "minLength": 3,
       "required": true
     },
     "newTab": {
